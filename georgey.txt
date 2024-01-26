@@ -1,0 +1,15 @@
+<span id="a">root@pi</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhsfkjdshfkj -->information
+<span id="a">root@pi</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->georgey.txt<br/><br/>
+hey there, im <span id="k">georgey</span>. <!-- sjkfhskjf -->
+
+im a Python software engineer and have been since 2021.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>i consider myself an intermediate programmer within my preferred language.</p>
+<p>i love programming, problem solving, maths and reading in my spare time.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>i have experience in discord bot development, pygame development, Luau, and most medium-difficulty problems you can throw at me.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>im a very stubborn programmer, i will not stop until something is complete. i have spent over 14 hours on visual studio code solving a problem, only to wake up the next day in the afternoon.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>i have 2 main attributes for myself, stubborn and stupid. some things never change.</p>
+for anyone interested in viewing my work, please add me on discord <a href="https://discord.com/users/680149671821181011">@thecuriousgeorge</a>
+
+i dont ever check emails, so dont try and find one.
+
+<p>adios</p>
+<span id="a">root@pi</span>:<span id="b">~</span><span id="c">$</span> exit
