@@ -101,12 +101,23 @@ Typer.speed=3;
 Typer.file="georgey.txt";
 Typer.init();
  
+function unlock() {
+	document.getElementById("work").style.visibility= 'visible'
+	const element = document.getElementById("pastwork");
+	element.scrollTo({ 
+		top: element.clientHeight / 2, 
+		left: element.clientWidth / 2, 
+		behavior: "smooth" 
+	});
+}
+
 var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	
 	if (Typer.index > Typer.text.length) {
 		clearInterval(timer);
+		setTimeout(() => unlock(), 1000);
 	}
 }
  
