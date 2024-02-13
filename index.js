@@ -103,7 +103,6 @@ Typer.init();
  
 function unlock() {
 	document.getElementById("work").style.visibility= 'visible';
-	document.getElementsByClassName("responsive").style.visibility = 'visible';
 }
 
 var timer = setInterval("t();", 30);
